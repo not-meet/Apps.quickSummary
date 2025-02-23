@@ -1,0 +1,16 @@
+{
+    "id": "060df894-4f8a-4862-8cf0-64ec525ae0ee",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.44.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Meet jain",
+        "homepage": "mjmeet.279@gmail.com",
+        "support": "mjmeet.279@gmail.com"
+    },
+    "name": "quickHistory",
+    "nameSlug": "quickhistory",
+    "classFile": "QuickHistoryApp.ts",
+    "description": "a basic chat summriser happend in the room",
+    "implements": []
+}
