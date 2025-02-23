@@ -25,9 +25,9 @@
     rc-apps deploy --url <url> --username <username> --password <password>
     ```
 
-### ⚙️ Installation
-- seting up the summary ai 
+### ⚙️ seting up the summary ai 
 
-1. U need to get the api key of either chat gpt or groq 
-    
-    use`/quickhistory config <modal name either groq or gpt> <api key>`
+1. U need to get the api key of either chat gpt or groq use 
+    ```sh 
+    /quickhistory config <modal name either groq or gpt> <api key>
+    ```
